@@ -20,3 +20,7 @@ The Adventures of Sherlock Holmes by Arthur Conan Doyle:
 The Time Machine by H. G. Wells:
 ================================
 1.9493390609688133
+
+Divine Comedy, Longfellow's Translation, Hell by Dante Alighieri:
+=================================================================
+1.8670081868310315
