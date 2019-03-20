@@ -1,5 +1,6 @@
-# ShanonEntropyOfBooks
-I calculate Shanon Entropy of different books and add them here.
+# Shanon Entropy Of Books
+As you can see from my code, entropy of individual words is calculated and them summed up to calculate the average entropy.
+All the books were used in utf-8 from Project Gutberg.
 
 Quran:
 ======
