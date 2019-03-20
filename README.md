@@ -1,5 +1,5 @@
 # ShanonEntropyOfBooks
-In this repo I calculate Shanon Entropy of different books and add them here.
+I calculate Shanon Entropy of different books and add them here.
 
 Quran:
 ======
@@ -24,3 +24,7 @@ The Time Machine by H. G. Wells:
 Divine Comedy, Longfellow's Translation, Hell by Dante Alighieri:
 =================================================================
 1.8670081868310315
+
+Grimms' Fairy Tales, by The Brothers Grimm:
+===========================================
+1.9461065959715265
