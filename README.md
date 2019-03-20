@@ -1,5 +1,5 @@
 # Shanon Entropy Of Books
-As you can see from my code, entropy of individual words is calculated and them summed up to calculate the average entropy.
+As you can see from the code, entropy of individual words is calculated and them summed up to calculate the average entropy of the book.
 All the books were used in utf-8 from Project Gutberg.
 
 Quran:
