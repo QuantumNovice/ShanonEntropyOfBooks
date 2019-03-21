@@ -41,7 +41,7 @@ Quran:
 
  Adventures of Huckleberry Finn:
  ===============================
- ![alt text](https://github.com/QuantumNovice/ShanonEntropyOfBooks/blob/master/graphs/Adventures%20of%20Huckleberry%20Finn.png)
+ ![alt text](/graphs/Adventures%20of%20Huckleberry%20Finn.png)
  
 Pride and Prejudice, by Jane Austen:
 =====================================
