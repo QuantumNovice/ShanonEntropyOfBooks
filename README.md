@@ -38,3 +38,12 @@ Quran:
 ======
 1.8783834819075969
 ![alt text](https://github.com/QuantumNovice/ShanonEntropyOfBooks/blob/master/graphs/quran-simple-clean.txt.png)
+
+ Adventures of Huckleberry Finn:
+ ===============================
+ ![alt text](https://github.com/QuantumNovice/ShanonEntropyOfBooks/blob/master/graphs/Adventures%20of%20Huckleberry%20Finn.png)
+ 
+Pride and Prejudice, by Jane Austen:
+=====================================
+![alt text](https://github.com/QuantumNovice/ShanonEntropyOfBooks/blob/master/graphs/Pride%20and%20Prejudice%2C%20by%20Jane%20Austen.png) 
+ 
