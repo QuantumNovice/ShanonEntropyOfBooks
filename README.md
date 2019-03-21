@@ -3,11 +3,6 @@ As you can see from the code, entropy of individual words is calculated and them
 All the books were used in utf-8 from Project Gutberg.
 
 
-Quran:
-======
-1.8783834819075969
-![alt text](https://github.com/QuantumNovice/ShanonEntropyOfBooks/blob/master/graphs/quran-simple-clean.txt.png)
-
 The King James Version of the Bible:
 ====================================
 1.8228063427087406
@@ -38,3 +33,8 @@ Grimms' Fairy Tales, by The Brothers Grimm:
 ===========================================
 1.9461065959715265
 ![alt text](https://github.com/QuantumNovice/ShanonEntropyOfBooks/blob/master/graphs/Grimms'%20Fairy%20Tales%2C%20by%20The%20Brothers%20Grimm.png)
+
+Quran:
+======
+1.8783834819075969
+![alt text](https://github.com/QuantumNovice/ShanonEntropyOfBooks/blob/master/graphs/quran-simple-clean.txt.png)
